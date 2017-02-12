@@ -11,7 +11,7 @@
     <sprite>sprites\spr_main_char</sprite>
     <sprite>sprites\spr_battlearea</sprite>
     <sprite>sprites\enemytemp</sprite>
-    <sprite>sprites\spr_aaaaa</sprite>
+    <sprite>sprites\spr_cyanline</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
