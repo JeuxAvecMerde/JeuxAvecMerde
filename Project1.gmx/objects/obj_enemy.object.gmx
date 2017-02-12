@@ -52,7 +52,7 @@
 instance_destroy();
 }
 
-if (place_meeting(x,y, p_dmg_obj)){
+if (place_meeting(x,y, p_dmg)){
 
 }
 </string>
