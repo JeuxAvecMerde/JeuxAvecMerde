@@ -9,11 +9,15 @@
     <sprite>sprites\spr_Sean</sprite>
     <sprite>sprites\spr_andrew_sucks</sprite>
     <sprite>sprites\spr_main_char</sprite>
+    <sprite>sprites\spr_test_enemy</sprite>
+    <sprite>sprites\spr_test_pointing</sprite>
+    <sprite>sprites\spr_test_lineseg</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_main_char</object>
+    <object>objects\obj_test_enemy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
